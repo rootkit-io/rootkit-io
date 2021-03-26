@@ -7,7 +7,7 @@
 
 - 📀 Sometimes do CTF.
 
-- 📀 Fun Fact - I prefer books over video tutorials. 
+- 📀 Fun Fact - I prefer books over video tutorials. Love playing Video Games.
 
 - 📀 Love Shellcoding. 
 
