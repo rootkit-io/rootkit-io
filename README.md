@@ -24,6 +24,6 @@
 
 ---
 
-[twitter]:https://twitter.com/
-[linkedin]:https://www.linkedin.com/in/
-[instagram]:https://www.instagram.com/
+[twitter]:https://twitter.com/r00tkit__
+[linkedin]:https://www.linkedin.com/in/aditya-singh-25ba02202
+[instagram]:https://www.instagram.com/__theycallmeaadi
