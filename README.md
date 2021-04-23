@@ -9,7 +9,7 @@
 
 - 📀 Fun Fact - I prefer books over video tutorials. Love playing Video Games.
 
-- 📀 Love Malwares.
+- 📀 Love Malwares and rootkits.
 
 ### Social Media I Use:
 [<img align="left" alt="r00tkit__ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
