@@ -11,6 +11,10 @@
 
 - 📀 Love Malwares and rootkits.
 
+- 📀 I program in Python, C, Go and Assembly. 
+
+- 📀 Currently Esclating some privilages :)
+
 ### Social Media I Use:
 [<img align="left" alt="r00tkit__ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="@aditya-singh-25ba02202 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
