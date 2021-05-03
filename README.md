@@ -13,7 +13,7 @@
 
 - 📀 I program in Python, C, Go and Assembly. 
 
-- 📀 Currently Esclating some privilages :)
+- 📀 Currently programming going on brrrrrrr....
 
 ### Social Media I Use:
 [<img align="left" alt="r00tkit__ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
