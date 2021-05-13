@@ -3,7 +3,7 @@
 
 ## Whoami I'm a Learner, Exploit Researcher and Aspiring Red Teamer
 
-- 📀 15 year old, I have been researching on diffrent things in cybersecurity since long time.
+- 📀 15 year old, I have been researching on different things in cybersecurity domain since long time.
 
 - 📀 Sometimes do CTF.
 
