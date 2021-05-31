@@ -11,7 +11,7 @@
 
 - 📀 Love Malwares and rootkits.
 
-- 📀 I program in Python, C, Go and Assembly. 
+- 📀 I program in C, Go and Assembly. 
 
 - 📀 Currently programming going on brrrrrrr....
 
