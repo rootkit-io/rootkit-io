@@ -29,4 +29,4 @@
 
 [twitter]:https://twitter.com/r00tkit__
 [linkedin]:https://www.linkedin.com/in/aditya-singh-25ba02202
-[instagram]:https://www.instagram.com/___theycallmeaadi
+[instagram]:https://www.instagram.com/hexa_nerd
