@@ -9,9 +9,9 @@
 
 - 📀 Fun Fact - I prefer books over video tutorials. Love playing Video Games.
 
-- 📀 Love Malwares and rootkits.
+- 📀 Love Malwares and specially rootkits.
 
-- 📀 I program in C, Go and Assembly. 
+- 📀 I program in C, Go and Assembly but not touched C and assembly for long time.
 
 - 📀 Currently programming going on brrrrrrr....
 
