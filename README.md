@@ -1,5 +1,5 @@
 # Yo, I'm Aadi aka [Jesse] 👋
-[![👨🏻‍💻](https://img.shields.io/twitter/follow/r00tkit__?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F0x29FE2&screen_name=r00tkit__)
+[![👨🏻‍💻](https://img.shields.io/twitter/follow/r00tkit__?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F0x29FE2&screen_name=Sasha0x01_)
 
 ## Whoami I'm a Learner, Exploit Researcher and Aspiring Red Teamer
 
