@@ -1,13 +1,9 @@
 # Yo, I'm Aadi aka [Jesse] 👋
 [![👨🏻‍💻](https://img.shields.io/twitter/follow/Sasha0x01_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F0x29FE2&screen_name=Sasha0x01_)
 
-## Whoami I'm a Learner, Exploit Researcher and Aspiring Red Teamer
+## Whoami I'm a Wannabe Maldev,Sysadmin
 
-- 📀 15 year old, I have been researching on different things in cybersecurity domain since long time.
-
-- 📀 Sometimes do CTF.
-
-- 📀 Fun Fact - I prefer books over video tutorials. Love playing Video Games.
+- 📀 16 year old.
 
 - 📀 Love Malwares and specially rootkits.
 
