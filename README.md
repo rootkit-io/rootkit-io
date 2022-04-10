@@ -5,7 +5,7 @@
 
 - 📀 16 year old.
 
-- 📀 Love Malwares and specially rootkits.
+- 📀 Love Malware and specially rootkits.
 
 - 📀 I program in C, Go and Assembly but not touched C and assembly for long time.
 
