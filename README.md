@@ -13,8 +13,6 @@
 
 ### Social Media I Use:
 [<img align="left" alt="Sasha0x01_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="@__theycallmeaadi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br />
 
 <br />
@@ -23,4 +21,4 @@
 ---
 
 [twitter]:https://twitter.com/Sasha0x01_
-[instagram]:https://www.instagram.com/___theycallmeaadi/
+
