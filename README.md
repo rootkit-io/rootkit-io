@@ -1,5 +1,5 @@
 # Aditya Singh
-
+[![Transfergit card](https://transfergit.com/api/svg/rootkit-io/readme)](https://transfergit.com/rootkit-io)
 Linux systems, automation, and security-aware infrastructure.
 
 Based in Spain. Focused on Linux administration, backend operations, automation, low-level programming, and ethical security research.
