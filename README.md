@@ -1,5 +1,5 @@
 # Aditya Singh
-Linux systems, automation, and security-aware infrastructure.
+backend, automation, and security aware infrastructure.
 
 Based in Spain. Focused on Linux administration, backend operations, automation, low-level programming, and ethical security research.
 
